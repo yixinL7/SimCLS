@@ -1,6 +1,6 @@
 # ScoringSumm
 Code for our paper:
-"Improving Abstractive Summarization with Summary Scoring"
+"SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization", ACL 2021
 
 ## 1. How to Install
 
