@@ -1,4 +1,4 @@
-# ScoringSumm
+# SimCLS
 Code for our paper:
 "SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization", ACL 2021
 
