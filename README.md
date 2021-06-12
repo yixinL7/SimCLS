@@ -2,6 +2,15 @@
 Code for our paper:
 "SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization", ACL 2021
 
+
+
+<div  align="center">
+ <img src="fig/intro_simcls.png" width = "550" alt="d" align=center />
+</div>
+
+
+
+
 ## 1. How to Install
 
 ### Requirements
