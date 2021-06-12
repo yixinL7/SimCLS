@@ -5,7 +5,7 @@ Code for our paper:
 
 
 <div  align="center">
- <img src="fig/intro_simcls.png" width = "550" alt="d" align=center />
+ <img src="example/intro_simcls.png" width = "550" alt="d" align=center />
 </div>
 
 
