@@ -2,7 +2,10 @@
 Code for our paper:
 "SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization", ACL 2021
 
+## Overview
+SimCLS is a conceptually simple while empirically powerful framework for abstractive summarization, which can bridge the gap between the \textit{learning objective} and \textit{evaluation metrics} resulting from the currently dominated sequence-to-sequence learning framework by \textbf{formulating text generation as a reference-free evaluation problem} (i.e., quality estimation) assisted by \textit{contrastive learning}.
 
+As shown below, SimCLS framework consists of for two stages: Candidate Generation and Reference-free evaluation, where $\text{Doc}$, $\text{S}$, $\text{Ref}$ represent the document, generated summary and reference respectively.
 
 <div  align="center">
  <img src="example/intro_simcls.png" width = "550" alt="d" align=center />
